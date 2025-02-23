@@ -1,6 +1,4 @@
-import externalConfig from './prettier.config.js';
-
-/** @type {import('prettier').Config} */
+import externalConfig from "./index.js";
 
 export default {
   ...externalConfig,
