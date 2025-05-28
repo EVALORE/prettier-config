@@ -3,6 +3,9 @@
   "version": "0.0.4",
   "main": "prettier.config.js",
   "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "prettier": "^3.4.2"
   },
