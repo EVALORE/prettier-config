@@ -6,7 +6,7 @@ export default {
   tabWidth: 2,
   semi: true,
   singleQuote: true,
-  singleAttributePerLine: true,
+  singleAttributePerLine: false,
   useTabs: false,
   trailingComma: 'all',
 
